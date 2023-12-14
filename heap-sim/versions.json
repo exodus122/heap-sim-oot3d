@@ -1,0 +1,22 @@
+{
+	"OoT3D-US": {
+		"name": "OoT3D-US",
+		"filename": "",
+		"actortable": 0,
+		"scenetable": 0,
+		"heapStart": 160461904,
+		"console": "3DS",
+		"game": "OoT3D",
+		"variation": "VANILLA"
+	},
+	"OoT3D-US-MQ": {
+		"name": "OoT3D-US-MQ",
+		"filename": "",
+		"actortable": 0,
+		"scenetable": 0,
+		"heapStart": 160461904,
+		"console": "3DS",
+		"game": "OoT3D",
+		"variation": "MQ"
+	}
+}
