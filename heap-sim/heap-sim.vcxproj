@@ -149,6 +149,8 @@
     <ClInclude Include="HeapNode.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="actors.json" />
+    <None Include="scenes.json" />
     <None Include="versions.json" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -40,5 +40,11 @@
     <None Include="versions.json">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="actors.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="scenes.json">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

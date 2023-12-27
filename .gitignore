@@ -340,4 +340,5 @@ ASALocalRun/
 healthchecksdb
 
 /*/*.3ds
+/*/code.bin
 /*/scene/*

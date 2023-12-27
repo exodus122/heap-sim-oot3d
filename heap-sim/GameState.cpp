@@ -44,7 +44,7 @@ GameState::~GameState() {
 }
 
 void GameState::LoadScene(int sceneId, int setupId, int roomId) {
-	this->setupData = sceneInfo[this->version][sceneId][setupId];
+	this->setupData = sceneInfo[this->version][sceneId]["setups"][setupId];
 	this->sceneId = sceneId;
 	this->setupId = setupId;
 	this->loadedObjects.insert(0x0001);
